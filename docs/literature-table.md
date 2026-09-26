@@ -1,6 +1,4 @@
-| Paper | Year | Gloss-free? | Keypoints/Pose? | BLEU-4 |
-|---|---|---|---|---:|
-| GFSLT-VLP (our project) | 2023 | Yes | No | 21.44 |
-| GloFE | 2023 | Yes | Yes | N/A |
-
-
+| Paper | Year | Gloss-free? | Pose/Keypoints? | Main Method | Dataset | BLEU-4 | Paper |
+|---|---:|---|---|---|---|---:|---|
+| GFSLT-VLP | 2023 | Yes | No | Visual-language pretraining | PHOENIX14T, CSL-Daily | 21.44 | [Paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html) |
+| GloFE | 2023 | Yes | Yes | MMPose + CTR-GCN + Conceptual Anchors | OpenASL, How2Sign | N/A | [Paper link](https://aclanthology.org/2023.acl-long.722/) |
