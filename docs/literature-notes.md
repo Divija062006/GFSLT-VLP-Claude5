@@ -10,6 +10,8 @@ Gloss-Free Sign Language Translation
 - Dataset: PHOENIX14T.
 - Investigate keypoint/pose-based improvements.
 
+### Divija Day 1: done  
+
 ### Person D — Progress
 - Started literature search.
 - Started searching for gloss-free SLT papers from 2023 onward.
