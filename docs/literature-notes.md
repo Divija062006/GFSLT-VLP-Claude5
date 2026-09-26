@@ -26,3 +26,8 @@ Gloss-Free Sign Language Translation
 - Complete the literature comparison table.
 - Identify possible research gaps.
 
+### Additional day 1 notes
+- the keypoint idea has already been used.
+- need to read on their methods.
+  
+
