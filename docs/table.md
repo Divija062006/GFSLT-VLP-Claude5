@@ -2,4 +2,4 @@
 |---|---|---|---|---:|
 | GFSLT-VLP (our project) | 2023 | Yes | No | 21.44 |
 | GloFE | 2023 | Yes | Yes | N/A |
-| Paper 3 | 2024 | Yes | Yes | 25.00 |
+
